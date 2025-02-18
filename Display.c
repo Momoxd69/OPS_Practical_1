@@ -1,5 +1,5 @@
 #include<std.io>
 void main()
 {
-	printf("ello there!");
+	printf("bello there!");
 }
